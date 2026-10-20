@@ -1,2 +1,3 @@
-# manage-assets
-Image storage repo for my works
+Howdy **repo-adventurer**
+
+Nothing to see here so gtfo!
